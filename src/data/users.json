@@ -12,5 +12,12 @@
     "email": "user@email.com",
     "password": "$2a$10$e8R1d8.y/d9y/d9y/d9y/O9y/d9y/d9y/d9y/d9y/d9y/d9y/d9y/",
     "role": "user"
+  },
+  {
+    "id": "34a2d70e-9926-40c7-9af7-5857a155fb9a",
+    "name": "Maria Silva",
+    "email": "maria@email.com",
+    "password": "$2b$10$1mrIsWwfC1m2wKwO8FTshuuEHSJFMgKtiTNcdEmHvWIUh5d88n6wW",
+    "role": "admin"
   }
 ]
