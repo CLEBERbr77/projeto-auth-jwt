@@ -1,4 +1,4 @@
-[
+[[
   {
     "id": "1",
     "name": "Admin Sistema",
@@ -13,4 +13,4 @@
     "password": "$2a$10$e8R1d8.y/d9y/d9y/d9y/O9y/d9y/d9y/d9y/d9y/d9y/d9y/d9y/",
     "role": "user"
   }
-]
+]]
