@@ -29,7 +29,11 @@ function saveUsersToFile(users) {
 }
 
 
+
 //middlewares de segurança 
+
+//middlewares de segurança para fazer a verificaçao do login
+
 function authMiddleware(req, res, next) {
     const authHeader = req.headers.authorization;
     if (!authHeader) return res.status(401).json({ error: "Token não fornecido" });
@@ -122,5 +126,8 @@ router.get("/admin/users", authMiddleware, adminMiddleware, (req, res) => {
     return res.status(200).json(safeUsers);
 });
 
-// Exporta as rotas
+// Exporta as rogtas
 module.exports = router;
+
+module.exports = router;
+

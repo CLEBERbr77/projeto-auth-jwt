@@ -4,7 +4,6 @@ require("dotenv").config();
 
 const routes = require("./routes");
 
-
 const server = express();
 
 
@@ -13,7 +12,6 @@ server.use(express.urlencoded({ extended: true }));
 
 
 server.use(routes);
-
 
 const PORT = process.env.PORT || 3004;
 
