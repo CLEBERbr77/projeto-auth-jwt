@@ -1,0 +1,9 @@
+[
+  {
+    "id": "a468db4e-99f7-484e-baa2-f721caa3efb9",
+    "name": "Maria",
+    "email": "maria@email.com",
+    "password": "$2b$10$ZLmvr/VpsxLJQ8gs9ulnROVHMx.5fpQZREk00q/bZo63lKBSe9XAK",
+    "role": "admin"
+  }
+]
