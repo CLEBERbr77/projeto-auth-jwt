@@ -5,5 +5,12 @@
     "email": "maria@email.com",
     "password": "$2b$10$ZLmvr/VpsxLJQ8gs9ulnROVHMx.5fpQZREk00q/bZo63lKBSe9XAK",
     "role": "admin"
+  },
+  {
+    "id": "80f77dd0-e882-48ce-9c9f-e8e5231edc3b",
+    "name": "vitor regis",
+    "email": "vitor@email.com",
+    "password": "$2b$10$EKO5obC6pkbvcY22sRAeyeLDVg4msop/EdF5WyB105ggkEbInM1Ja",
+    "role": "user"
   }
 ]
